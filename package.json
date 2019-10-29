@@ -1,0 +1,11 @@
+{
+  "name": "Dice_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SlyCreator/Dice_game.git",
+  "author": "Benjamin Chibuzor-Orie <benjamin.node@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
